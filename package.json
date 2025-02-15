@@ -1,0 +1,13 @@
+{
+  "name": "creative-exercise-ahtruong1",
+  "version": "1.0.0",
+  "license": "ISC",
+  "author": "Andy Truong",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

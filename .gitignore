@@ -1,2 +1,5 @@
 # Webstorm Configuration Folder
 .idea/
+
+# Dependencies
+node_modules/
