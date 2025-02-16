@@ -5,7 +5,8 @@
   "author": "Andy Truong",
   "main": "server.js",
   "scripts": {
-    "dev": "node ."
+    "dev": "node .",
+    "start": "node ."
   },
   "dependencies": {
     "express": "^4.21.2"

@@ -3,5 +3,7 @@ Squid Game is a popular Korean series on Netflix where contestants participate i
 
 - http://creative-exercise-ahtruong1.glitch.me
 - Canvas
-- My implementation was completely original.
+- My implementation was completely original, but to learn how the Canvas API worked, I used the following resources:
+  - https://www.w3schools.com/html/html5_canvas.asp
+  - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
 
